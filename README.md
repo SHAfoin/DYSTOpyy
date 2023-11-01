@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/U2pyy.png" alt="TryHackMe">
+<!-- Mettre rootme, hack the box aussi -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dystopyy&langs_count=8&layout=compact&theme=react)
