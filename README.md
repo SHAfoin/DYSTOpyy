@@ -1,23 +1,34 @@
-<img src="https://i.imgur.com/sxI4Fuk.gif">
+<p align="center">
+<img align="center" src="https://i.imgur.com/gbcM1tJ.gif" alt="DYSTO_pyy"> 
+</p>
+<h3 align="center">French student in Computer Science & Cybersecurity</h3>
+<p align="center">I would like to work in cybersecurity as a Pentester one day.<br><i>And I work <b>really</b> hard for this.</i></p>
 
-### DYSTOpyy 
 
-#### French student in Computer Science & Cybersecurity
+<h2 align="center">💻Tech I worked with</h2>
 
-<!--
-**DYSTOpyy/DYSTOpyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,css,django,java,python,go,html,nodejs" alt="Git, C, CSS, Django, Java, Python, Go, HTML, NodeJS"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://tryhackme-badges.s3.amazonaws.com/U2pyy.png" alt="TryHackMe"> 
+<h2 align="center">📚What am I currently learning ?</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dystopyy&langs_count=8&layout=compact&theme=react)
+<p align="center"> Currently I continue to develop my skills more on <b>TryHackMe</b>, and I am currently discovering this amazing tool called <img height=20 align="center" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white alt="Blender"">
+</p>
+
+
+<h2 align="center">🔢Some of my stats</h2>
+
+
+<p align="center">
+  <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/U2pyy.png" alt="My Tryhackme Stats, top 1%"> 
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dystopyy&langs_count=8&layout=compact&theme=react" alt="My languages used statistics"/>
+</p>
+
+  
+</a>
+
+<h6 align="center">Also... <!-- ... FYI I kinda like to learn & practice OSINT too 👀 --></h6>
