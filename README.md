@@ -9,14 +9,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,css,django,java,python,go,html,nodejs" alt="Git, C, CSS, Django, Java, Python, Go, HTML, NodeJS"/>
+    <img src="https://skillicons.dev/icons?i=git,c,css,django,java,python,go,html,nodejs" alt="Git, C, CSS, Django, Java, Python, Go, HTML, NodeJS, Flutter, Blender"/>
   </a>
 </p>
 
 
 <h2 align="center">📚What am I currently learning ?</h2>
 
-<p align="center"> Currently I continue to develop my skills more on <b>TryHackMe</b>, and I am currently discovering this amazing tool called <img height=20 align="center" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white alt="Blender"">
+<p align="center"> Currently I continue to develop my skills more on <b>TryHackMe</b>, and I am currently discovering this amazing tool called <img height=20 align="center" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white alt="Blender""> and Flutter !
 </p>
 
 
