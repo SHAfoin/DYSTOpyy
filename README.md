@@ -16,7 +16,7 @@
 
 <h2 align="center">📚What am I currently learning ?</h2>
 
-<p align="center"> Currently I continue to develop my skills more on <b>TryHackMe</b>, and I am currently discovering this amazing tool called <a href='https://github.com/shivamkapasia0' target="_blank"><img align="center" alt='blender' src='https://img.shields.io/badge/Blender-100000?style=flat&logo=blender&logoColor=white&labelColor=FF8412&color=FF8412'/></a> and <a href='https://github.com/shivamkapasia0' target="_blank"><img align="center" alt='flutter' src='https://img.shields.io/badge/Flutter-100000?style=flat&logo=flutter&logoColor=white&labelColor=1595FF&color=1595FF'/></a> !
+<p align="center"> Currently I continue to develop my skills more on <b>TryHackMe</b>, and I am currently discovering this amazing tool called <a href='https://github.com/shivamkapasia0' target="_blank"><img align="center" alt='angular' src='https://img.shields.io/badge/Angular-100000?style=flat&logo=angular&logoColor=white&labelColor=DE002D&color=DE002D'/></a> and <a href='https://github.com/shivamkapasia0' target="_blank"><img align="center" alt='docker' src='https://img.shields.io/badge/Docker-100000?style=flat&logo=docker&logoColor=white&labelColor=1D63ED&color=1D63ED'/></a> !
 </p>
 <!-- Icon generator : https://kapasia-dev-ed.my.site.com/Badges4Me/s/ -->
 
