@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-I would like to work in cybersecurity as a Pentester in the future.
+I would like to work in cybersecurity as a **Pentester** in the future :)
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4E148C&background=4E148C00&vCenter=true&repeat=false&random=false&width=1000&height=70&lines=Tech+I+worked+with" alt="Typing SVG" />
