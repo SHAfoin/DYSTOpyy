@@ -1,7 +1,4 @@
-<p align="center">
-<img align="center" src="https://i.imgur.com/gbcM1tJ.gif" alt="DYSTO_pyy"> 
-</p>
-<h3 align="center">French student in Computer Science & Cybersecurity</h3>
+![Header](./github-header-image.png)
 <p align="center">I would like to work in cybersecurity as a Pentester one day.<br><i>And I work <b>really</b> hard for this.</i></p>
 
 
