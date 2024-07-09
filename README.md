@@ -3,7 +3,7 @@
 I would like to work in cybersecurity as a **Pentester** in the future :)
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4E148C&background=4E148C00&vCenter=true&repeat=false&random=false&width=1000&height=70&lines=Tech+I+worked+with" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=613DC1&background=4E148C00&vCenter=true&repeat=false&random=false&width=1000&height=70&lines=Tech+I+worked+with" alt="Typing SVG" />
 </p>
 
 <p>
@@ -13,7 +13,7 @@ I would like to work in cybersecurity as a **Pentester** in the future :)
 </p>
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4E148C&background=4E148C00&vCenter=true&repeat=false&random=false&width=1000&height=70&lines=What+I+am+working+on" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=613DC1&background=4E148C00&vCenter=true&repeat=false&random=false&width=1000&height=70&lines=What+I+am+working+on" alt="Typing SVG" />
 </p>
 
 <p> Currently I am discovering and working on : <a href='https://github.com/shivamkapasia0' target="_blank"><img align="center" alt='angular' src='https://img.shields.io/badge/Angular-100000?style=flat&logo=angular&logoColor=white&labelColor=DE002D&color=DE002D'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img align="center" alt='docker' src='https://img.shields.io/badge/Docker-100000?style=flat&logo=docker&logoColor=white&labelColor=1D63ED&color=1D63ED'/></a>
@@ -21,7 +21,7 @@ I would like to work in cybersecurity as a **Pentester** in the future :)
 
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4E148C&background=4E148C00&vCenter=true&repeat=false&random=false&width=1000&height=70&lines=Stats" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=613DC1&background=4E148C00&vCenter=true&repeat=false&random=false&width=1000&height=70&lines=Stats" alt="Typing SVG" />
 </p>
 
 <p>
